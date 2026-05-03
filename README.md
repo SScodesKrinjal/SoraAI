@@ -4,8 +4,6 @@ A full stack AI powered web application built using modern technologies. It inte
 
 📌 Overview
 
-This project was originally developed on Replit and later migrated to GitHub for version control and deployment.
-
 SoraAI includes:
 
 A modern frontend built with Vite and React
